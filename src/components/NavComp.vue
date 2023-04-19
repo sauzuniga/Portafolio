@@ -31,6 +31,21 @@
         <li class="nav-item">
           <router-link to="componentes" class="nav-link" >Componentes </router-link>
         </li>
+        <li class="nav-item">
+          <router-link to="/introduccionphp"  class="nav-link" >IntroduccionPHP </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="loopsarraysfunctions" class="nav-link" >Loops,arrays, y functions </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="clasesabstractas" class="nav-link" >Clases abstractas y interfaces </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="introlaravel" class="nav-link" >Introducción a laravel </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="introdepoo" class="nav-link" >Intro de poo </router-link>
+        </li>
       </ul>
     </div>
   </div>

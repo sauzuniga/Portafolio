@@ -6,6 +6,7 @@
       <p class="card-text">En este computo, adquiri ciertas competencias como:</p>
     </div>
   </div>
+  <h1>Computo 1</h1>
   <div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
       <h2 class="accordion-header" id="flush-headingOne">
@@ -47,7 +48,37 @@
         <div class="accordion-body">Debido a que en los trabajos trabajamos con bootstrap, tuve que investigar que representaban algunas etiquetas html. Gracias a estas investigaciones, descubrí nuevas etiquetas o aprendi para que sirven algunas etiquetas que habia visto antes.</div>
       </div>
     </div>
-    
+    <h2>Computo 2</h2>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="flush-headingThree">
+        <button class="accordion-button collapsed bg-warning" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+          Capacidad de poder instalar y configurar de forma manual el php
+        </button>
+      </h2>
+      <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">Lo anterior gracias a que debido a que en este computo estuvo orientado a php, se nos enseño mas que todo a manera de curiosidad, a configurar y instalar el php de manera manual </div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="flush-headingOne">
+        <button class="accordion-button collapsed bg-primary" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+          Manejo basico de php
+        </button>
+      </h2>
+      <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body">Como en todos los lenguajes de programación, tuve que aprender los aspectos basicos de php como su sintaxis, sus restricciones, funciones basicas propias del lenguajes etc.</div>
+      </div>
+    </div>
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="flush-headingTwo">
+        <button class="accordion-button collapsed bg-info" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+          Manejo basico del framework Laravel
+        </button>
+      </h2>
+      <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+        <div class="accordion-body"></div>
+      </div>
+    </div>
   </div>
   
     </div>

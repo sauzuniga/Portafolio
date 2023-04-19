@@ -44,7 +44,36 @@ const router = createRouter({
       name: 'componentes',
       component: () => import('../views/ComponentesView.vue')
     },
-    
+    {
+      path: '/introduccionphp',
+      name: 'introduccionphp',
+      component: () => import('../views/IntroduccionPHPView.vue')
+    },
+    {
+      path: '/loopsarraysfunctions',
+      name: 'loopsarraysfunctions',
+      component: () => import('../views/Loops_Arrays_FunctionsView.vue')
+    },
+    {
+      path: '/intropoo',
+      name: 'intropoo',
+      component: () => import('../views/IntroPooview.vue')
+    },
+    {
+      path: '/clasesabstractas',
+      name: 'clasesabstractas',
+      component: () => import('../views/ClasesAbstractasView.vue')
+    },
+    {
+      path: '/introlaravel',
+      name: 'introlaravel',
+      component: () => import('../views/IntroLaravelView.vue')
+    },
+    {
+      path: '/introdepoo',
+      name: 'introdepoo',
+      component: () => import('../views/IntroDePOOView.vue')
+    },
   ]
 
 })
