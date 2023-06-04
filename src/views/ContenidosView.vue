@@ -12,5 +12,12 @@
   <li class="list-group-item">Introducción a la programación orientada a objetos</li>
   <li class="list-group-item">Clases abstractas e interfaces</li>
   <li class="list-group-item">Introducción a Laravel</li>
+  <h2>Computo 3</h2>
+  <li class="list-group-item">Sistema de rutas y controladores</li>
+  <li class="list-group-item">Validación de datos</li>
+  <li class="list-group-item">API REST con Laravel</li>
+  <li class="list-group-item">Autenticación API REST</li>
+  <li class="list-group-item">Consumo de API</li>
+  <li class="list-group-item">Autenticación Login</li>
 </ol>
 </template>

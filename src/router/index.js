@@ -74,6 +74,31 @@ const router = createRouter({
       name: 'introdepoo',
       component: () => import('../views/IntroDePOOView.vue')
     },
+    {
+      path: '/vistasycontroladores',
+      name: 'vistasycontroladores',
+      component: () => import('../views/VistasyControladoresView.vue')
+    },
+    {
+      path: '/validaciondatos',
+      name: 'validaciondatos',
+      component: () => import('../views/ValidacionDatosView.vue')
+    },
+    {
+      path: '/apirest',
+      name: 'apirest',
+      component: () => import('../views/APIRestView.vue')
+    },
+    {
+      path: '/apirestautentication',
+      name: 'apirestautentication',
+      component: () => import('../views/APIRESTAutenticationView.vue')
+    },
+    {
+      path: '/consumoapirest',
+      name: 'consumoapirest',
+      component: () => import('../views/APIRESTVueView.vue')
+    },
   ]
 
 })

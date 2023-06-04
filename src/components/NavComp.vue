@@ -46,6 +46,21 @@
         <li class="nav-item">
           <router-link to="introdepoo" class="nav-link" >Intro de poo </router-link>
         </li>
+        <li class="nav-item">
+          <router-link to="vistasycontroladores" class="nav-link" >Vistas y controladores </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="validaciondatos" class="nav-link" >Validación de datos </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="apirest" class="nav-link" >API Rest </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="apirestautentication" class="nav-link" >Autenticación API REST </router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="consumoapirest" class="nav-link" >Consumo API REST </router-link>
+        </li>
       </ul>
     </div>
   </div>
